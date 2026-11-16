@@ -1,0 +1,258 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "In what year did Pope Paul III officially recognize the Order of Jesus?",
+    "answer": "In 1540.",
+    "expected_answer": "In 1540.",
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 3,
+    "evidence_quote": "In 1540 Pope Paul III. recognized the new order and gave it the sanction of the Church."
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Were poor boys or children of humble birth excluded from admission to Jesuit schools?",
+    "answer": "No, the Constitutions expressly stated that poverty and mean extraction were never a hindrance to admission, and instruction was free.",
+    "expected_answer": "No, the Constitutions expressly stated that poverty and mean extraction were never a hindrance to admission, and instruction was free.",
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 4,
+    "evidence_quote": "the Constitutions expressly laid down that poverty and mean extraction were never to be any hindrance to a pupil's admission."
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "What major contribution to spelling instruction was introduced by the Port Royalists?",
+    "answer": "They invented the phonic method of spelling.",
+    "expected_answer": "They invented the phonic method of spelling.",
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 8,
+    "evidence_quote": "Their greatest contribution to education is the phonic method of spelling."
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "What is the title of Roger Ascham's famous educational work that became the first educational classic in English?",
+    "answer": "The Scholemaster.",
+    "expected_answer": "The Scholemaster.",
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 9,
+    "evidence_quote": "His chief literary work is his \"Scholemaster,\" which is the first educational classic in English."
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "According to Montaigne's educational views, what was a major weakness regarding the education of women?",
+    "answer": "He made no provision for women's education and expressed contempt for their abilities.",
+    "expected_answer": "He made no provision for women's education and expressed contempt for their abilities.",
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 15,
+    "evidence_quote": "A decided weakness in his system is found in his ideas concerning women. He made no provision for their education, and, indeed, expressed great contempt for their abilities of either mind or heart."
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Which treaty ended the Thirty Years' War in 1648 and secured religious liberty?",
+    "answer": "The Peace of Westphalia.",
+    "expected_answer": "The Peace of Westphalia.",
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 17,
+    "evidence_quote": "this lasted from 1618 till 1648, when the Peace of Westphalia secured religious liberty to all men."
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "How did the Duke of Weimar's 1619 decree regulate mandatory schooling for children?",
+    "answer": "It decreed that all children, both girls and boys, must stay in school for at least six years, from age six to twelve.",
+    "expected_answer": "It decreed that all children, both girls and boys, must stay in school for at least six years, from age six to twelve.",
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 19,
+    "evidence_quote": "In 1619 the Duke of Weimar decreed that all children, girls as well as boys, should be kept in school for at least six years,—from six to twelve."
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "In this section's biographical account, what sentence was Francis Bacon given after confessing to corruption?",
+    "answer": "Imprisonment in the Tower during the king's pleasure, a fine of £40,000, and permanent exclusion from Parliament, the court, and holding office.",
+    "expected_answer": "Imprisonment in the Tower during the king's pleasure, a fine of £40,000, and permanent exclusion from Parliament, the court, and holding office.",
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 23,
+    "evidence_quote": "He was found guilty and condemned to imprisonment in the Tower during the pleasure of the king, and to a fine of £40,000;",
+    "filter": {
+      "chapter": "CHAPTER XXXIII"
+    }
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "In what year was Comenius's illustrated textbook 'Orbis Pictus' published?",
+    "answer": "1658.",
+    "expected_answer": "1658.",
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 30,
+    "evidence_quote": "The \"Orbis Pictus\" appeared in 1658."
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Within this part of the text, which university served as the center of the Pietist movement in Germany?",
+    "answer": "The University of Halle.",
+    "expected_answer": "The University of Halle.",
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 46,
+    "evidence_quote": "The Pietists founded the university of Halle, and this remained the center of the movement until it had run its course.",
+    "filter": {
+      "chapter": "CHAPTER XXXIV"
+    }
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "In Rousseau's educational scheme for Émile between ages twelve and fifteen, which single book was permitted?",
+    "answer": "Only 'Robinson Crusoe' was permitted.",
+    "expected_answer": "Only 'Robinson Crusoe' was permitted.",
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 59,
+    "evidence_quote": "No books are permitted save \"Robinson Crusoe,\" which Rousseau finds entirely suitable for Émile ."
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "How many pupils were found in Basedow's Philanthropin during the public examination in May 1776?",
+    "answer": "Only thirteen pupils, including Basedow's own son and daughter.",
+    "expected_answer": "Only thirteen pupils, including Basedow's own son and daughter.",
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 63,
+    "evidence_quote": "they found only thirteen pupils in the Philanthropin, including Basedow's own son and daughter."
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "For the educator profiled in this chapter, what was the name of the unimproved farm in Aargau where he started his agricultural and industrial school experiments?",
+    "answer": "Neuhof.",
+    "expected_answer": "Neuhof.",
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 71,
+    "evidence_quote": "He named the place Neuhof.",
+    "filter": {
+      "chapter": "CHAPTER XXXVIII"
+    }
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "How did Froebel come up with the name 'Kindergarten' for his institution?",
+    "answer": "It came to him as a sudden inspiration while walking over the Steiger Pass toward Blankenburg with Middendorff and Barof.",
+    "expected_answer": "It came to him as a sudden inspiration while walking over the Steiger Pass toward Blankenburg with Middendorff and Barof.",
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 85,
+    "evidence_quote": "Suddenly he stood still as if riveted to the spot, and his eyes grew wonderfully bright. Then he shouted to the mountain so that it echoed to the four winds, 'Eureka! Kindergarten shall the institute be called!'"
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "Which famous philosopher's chair of philosophy at Königsberg was Herbart called to occupy in 1809?",
+    "answer": "Immanuel Kant's chair of philosophy.",
+    "expected_answer": "Immanuel Kant's chair of philosophy.",
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 89,
+    "evidence_quote": "In 1809, he was called to the chair of philosophy at Königsberg once occupied by Kant."
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "In Jesuit institutions, how were students divided between the lower and higher departments, and at what age were boys admitted to the lower course?",
+    "answer": "The lower department (studia inferiora) had five classes admitting boys at age fourteen, while the higher department (studia superiora) required two or three years.",
+    "expected_answer": "The lower department (studia inferiora) had five classes admitting boys at age fourteen, while the higher department (studia superiora) required two or three years.",
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 5,
+    "evidence_quote": "Every Jesuit school was divided into two departments, the lower, studia inferiora , consisting of five classes, and the higher, studia superiora , requiring two or three years. Boys were admitted to the lower course at the age of fourteen"
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "What three major contributions did La Salle make to education?",
+    "answer": "The Simultaneous Method of Instruction, the first Normal School at Rheims in 1684, and dignifying the teaching profession with full-time trained instructors.",
+    "expected_answer": "The Simultaneous Method of Instruction, the first Normal School at Rheims in 1684, and dignifying the teaching profession with full-time trained instructors.",
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 42,
+    "evidence_quote": "Education, therefore, owes to La Salle three important contributions,—(1) the Simultaneous Method of Instruction, whereby a number of children of the same advancement are taught together; (2) the first Normal School, established at Rheims, France, in 1684; and (3) a dignifying of the teacher's profession by setting apart trained persons who should give all their time to the work of teaching."
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Why did the Prussian government prohibit kindergartens in 1851, and how long did that prohibition last?",
+    "answer": "They prohibited them as part of a Froebelian socialistic system accused of teaching children atheism, and the decree lasted until 1860.",
+    "expected_answer": "They prohibited them as part of a Froebelian socialistic system accused of teaching children atheism, and the decree lasted until 1860.",
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 84,
+    "evidence_quote": "In 1851 the government prohibited kindergartens, as forming \"a part of the Froebelian socialistic system, the aim of which is to teach children atheism\"; and this decree was in force till 1860!"
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "What annual salary did Horace Mann accept when he became secretary of the Massachusetts State Board of Education?",
+    "answer": "One thousand dollars a year.",
+    "expected_answer": "One thousand dollars a year.",
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 93,
+    "evidence_quote": "Accordingly, having secured the passage of a law establishing a State Board of Education, Mr. Mann was made its secretary at a salary of one thousand dollars a year."
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Under the national school system described in this chapter, between what ages is daily school attendance compulsory for every healthy child, and what happens if parents fail to comply?",
+    "answer": "Between ages six and fourteen; parents may be fined or imprisoned, and if parents cannot secure attendance, the children are placed in reform schools.",
+    "expected_answer": "Between ages six and fourteen; parents may be fined or imprisoned, and if parents cannot secure attendance, the children are placed in reform schools.",
+    "gold_source_id": "gutenberg-27963",
+    "gold_page": 98,
+    "evidence_quote": "Every child in normal health is required to attend school between the ages of six and fourteen for every day that the school is in session. Parents are held responsible for the attendance of their children, and may be fined or imprisoned for non-fulfillment of the requirements of the law.",
+    "filter": {
+      "chapter": "CHAPTER XLII"
+    }
+  },
+  {
+    "id": "q21_unans",
+    "split": "dev",
+    "question": "What exact annual salary in gold marks did Pestalozzi receive from the Prussian king for founding the Burgdorf institute?",
+    "answer": "INSUFFICIENT_EVIDENCE",
+    "expected_answer": "INSUFFICIENT_EVIDENCE",
+    "gold": [],
+    "gold_source_id": null,
+    "gold_page": null,
+    "evidence_quote": null
+  },
+  {
+    "id": "q22_unans",
+    "split": "dev",
+    "question": "How many volumes of Froebel's personal diaries were destroyed during the 1871 fire in Berlin according to Levi Seeley?",
+    "answer": "INSUFFICIENT_EVIDENCE",
+    "expected_answer": "INSUFFICIENT_EVIDENCE",
+    "gold": [],
+    "gold_source_id": null,
+    "gold_page": null,
+    "evidence_quote": null
+  },
+  {
+    "id": "q23_unans",
+    "split": "test",
+    "question": "What specific statistical percentage of literacy did the Jesuit schools achieve in France by the year 1750 according to this text?",
+    "answer": "INSUFFICIENT_EVIDENCE",
+    "expected_answer": "INSUFFICIENT_EVIDENCE",
+    "gold": [],
+    "gold_source_id": null,
+    "gold_page": null,
+    "evidence_quote": null
+  },
+  {
+    "id": "q24_unans",
+    "split": "test",
+    "question": "Which university awarded Roger Ascham an honorary doctorate in mathematics after the publication of The Scholemaster?",
+    "answer": "INSUFFICIENT_EVIDENCE",
+    "expected_answer": "INSUFFICIENT_EVIDENCE",
+    "gold": [],
+    "gold_source_id": null,
+    "gold_page": null,
+    "evidence_quote": null
+  }
+]

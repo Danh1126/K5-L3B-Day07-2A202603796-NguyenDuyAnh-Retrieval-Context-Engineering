@@ -1,0 +1,48 @@
+[
+  {
+    "query_id": "q16",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reviewer_note": "Expected: The lower department (studia inferiora) had five classes admitting boys at age fourteen, while the higher department (studia superiora) required two or three years. | Agent: Students in Jesuit institutions were divided into two departments: the lower department (studia inferiora) and the higher department (studia superiora). Boys were admitted to the lower course at the age of fourteen, where they studied the humanities, while the higher course included philosophy and theology [gutenberg-27963::C::p005::c000]."
+  },
+  {
+    "query_id": "q17",
+    "citation_support": [],
+    "answer_grade": 0,
+    "reviewer_note": "Expected: The Simultaneous Method of Instruction, the first Normal School at Rheims in 1684, and dignifying the teaching profession with full-time trained instructors. | Agent: Không đủ bằng chứng để trả lời."
+  },
+  {
+    "query_id": "q18",
+    "citation_support": [],
+    "answer_grade": 0,
+    "reviewer_note": "Expected: They prohibited them as part of a Froebelian socialistic system accused of teaching children atheism, and the decree lasted until 1860. | Agent: Không đủ bằng chứng để trả lời."
+  },
+  {
+    "query_id": "q19",
+    "citation_support": [],
+    "answer_grade": 0,
+    "reviewer_note": "Expected: One thousand dollars a year. | Agent: Không đủ bằng chứng để trả lời."
+  },
+  {
+    "query_id": "q20",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reviewer_note": "Expected: Between ages six and fourteen; parents may be fined or imprisoned, and if parents cannot secure attendance, the children are placed in reform schools. | Agent: Daily school attendance is compulsory for every healthy child between the ages of six and fourteen. If parents fail to comply, they may be fined or imprisoned, and if unable to secure attendance, the children may be placed in reform schools [gutenberg-27963::C::p098::c001]"
+  },
+  {
+    "query_id": "q23_unans",
+    "citation_support": [],
+    "abstention_correct": true,
+    "reviewer_note": "Unanswerable check -> status=abstain"
+  },
+  {
+    "query_id": "q24_unans",
+    "citation_support": [],
+    "abstention_correct": true,
+    "reviewer_note": "Unanswerable check -> status=abstain"
+  }
+]

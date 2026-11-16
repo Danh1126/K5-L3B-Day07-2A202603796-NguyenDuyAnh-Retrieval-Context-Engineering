@@ -1,0 +1,455 @@
+[
+  {
+    "query_id": "q01",
+    "question": "In what year did Pope Paul III officially recognize the Order of Jesus?",
+    "expected": "In 1540.",
+    "status": "answered",
+    "answer": "Pope Paul III officially recognized the Order of Jesus in 1540 [gutenberg-27963::C::p003::c001].",
+    "citations": [
+      "gutenberg-27963::C::p003::c001"
+    ],
+    "latency_ms": 11657.7,
+    "events": [
+      {
+        "event": "search",
+        "query": "Pope Paul III recognize Order of Jesus year",
+        "filter": null,
+        "results": [
+          {
+            "id": "gutenberg-27963::C::p003::c000",
+            "text": "Loyola (1491-1556), the originator of the order, was a Spanish\nnobleman. While recovering from a severe wound received in battle, he\nread some religious books which made such a profound impression upon him\nthat he resolved to consecrate himself to religious work. Not being an\neducated man, he devoted some years to study, and while at the\nuniversity of Paris he gathered around him other young men who also were\nready to consecrate themselves to the service of God. They formed\nthemselves into the \"Order of Jesus,\" with the avowed purpose at first\nof rescuing Jerusalem from the hands of the infidels. This was not to\nbe done by force of arms, as in case of the crusaders, but by peaceful\nmeans. This purpose was abandoned, but the zealous missionary spirit of\nthe Jesuits endured. In 1540 Pope Pau",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 3,
+            "metadata": {
+              "unit_id": "chapter_xxx_u02",
+              "chapter": "CHAPTER XXX",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 2092,
+              "strategy": "C",
+              "chunk_index": 0
+            },
+            "score": 0.5343743819693537
+          },
+          {
+            "id": "gutenberg-27963::C::p003::c001",
+            "text": "ry spirit of\nthe Jesuits endured. In 1540 Pope Paul III. recognized the new order and\ngave it the sanction of the Church. The organization was military in\ncharacter, Loyola becoming its first general.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 3,
+            "metadata": {
+              "unit_id": "chapter_xxx_u02",
+              "chapter": "CHAPTER XXX",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 2092,
+              "strategy": "C",
+              "chunk_index": 1
+            },
+            "score": 0.5309224285007434
+          },
+          {
+            "id": "gutenberg-27963::C::p002::c002",
+            "text": "day, to train the young.\nAt this very time she was maintaining many schools. But the \"Order of\nJesus\" was destined to systematize education in such a degree as the\nChurch had never witnessed.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 2,
+            "metadata": {
+              "unit_id": "chapter_xxx_u01",
+              "chapter": "CHAPTER XXX",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 2869,
+              "strategy": "C",
+              "chunk_index": 2
+            },
+            "score": 0.4889063698477055
+          }
+        ],
+        "context": "[gutenberg-27963::C::p003::c000 | data/book.epub | page 3]\nLoyola (1491-1556), the originator of the order, was a Spanish\nnobleman. While recovering from a severe wound received in battle, he\nread some religious books which made such a profound impression upon him\nthat he resolved to consecrate himself to religious work. Not being an\neducated man, he devoted some years to study, and while at the\nuniversity of Paris he gathered around him other young men who also were\nready to consecrate themselves to the service of God. They formed\nthemselves into the \"Order of Jesus,\" with the avowed purpose at first\nof rescuing Jerusalem from the hands of the infidels. This was not to\nbe done by force of arms, as in case of the crusaders, but by peaceful\nmeans. This purpose was abandoned, but the zealous missionary spirit of\nthe Jesuits endured. In 1540 Pope Pau\n\n[gutenberg-27963::C::p003::c001 | data/book.epub | page 3]\nry spirit of\nthe Jesuits endured. In 1540 Pope Paul III. recognized the new order and\ngave it the sanction of the Church. The organization was military in\ncharacter, Loyola becoming its first general.\n\n[gutenberg-27963::C::p002::c002 | data/book.epub | page 2]\nday, to train the young.\nAt this very time she was maintaining many schools. But the \"Order of\nJesus\" was destined to systematize education in such a degree as the\nChurch had never witnessed.",
+        "context_ids": [
+          "gutenberg-27963::C::p003::c000",
+          "gutenberg-27963::C::p003::c001",
+          "gutenberg-27963::C::p002::c002"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ]
+  },
+  {
+    "query_id": "q02",
+    "question": "Were poor boys or children of humble birth excluded from admission to Jesuit schools?",
+    "expected": "No, the Constitutions expressly stated that poverty and mean extraction were never a hindrance to admission, and instruction was free.",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "latency_ms": 3290.18,
+    "events": [
+      {
+        "event": "search",
+        "query": "Jesuit schools admission poor boys children humble birth exclusion",
+        "filter": null,
+        "results": [
+          {
+            "id": "gutenberg-27963::C::p004::c001",
+            "text": "nough to supply the\ndemands for higher education.\" [65] This shows that they held higher\neducation as of the greater importance, and the same author further\nadds: \"Besides, the whole intellectual training of the Jesuits fitted\nthem better for the higher branches.\" They reached sons of princes,\nnoblemen, and others who constituted the influential classes, [66] but\n\"the Constitutions expressly laid down that poverty and mean extraction\nwere never to be any hindrance to a pupil's admission.\" [67] Instruction\nwas free.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 4,
+            "metadata": {
+              "unit_id": "chapter_xxx_u03",
+              "chapter": "CHAPTER XXX",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 1818,
+              "strategy": "C",
+              "chunk_index": 1
+            },
+            "score": 0.6120815029426989
+          },
+          {
+            "id": "gutenberg-27963::C::p004::c000",
+            "text": "Jesuit Education. —Unlike the monastics, the Jesuits mingled with the\nworld; they assumed no peculiarities of dress, and held themselves ready\nto act as missionaries to the most remote parts of the world, as agents\nof the Church to which they so fully consecrated themselves, and as\nteachers of youth. They established schools everywhere, and placed them\nin charge of teachers of remarkable skill and pedagogical training. [64] We have seen that their efforts were chiefly directed to higher\neducation, their schools being designed for boys not less than fourteen\nyears of age. In general, primary education did not enter into their\nscheme. Schwickerath thinks that the \"Jesuits could not undertake\nelementary education\" because \"they had never men enough to supply the\ndemands for higher education.\"",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 4,
+            "metadata": {
+              "unit_id": "chapter_xxx_u03",
+              "chapter": "CHAPTER XXX",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 1818,
+              "strategy": "C",
+              "chunk_index": 0
+            },
+            "score": 0.5690835269308374
+          },
+          {
+            "id": "gutenberg-27963::C::p005::c000",
+            "text": "Every Jesuit school was divided into two departments, the lower, studia inferiora , consisting of five classes, and the higher, studia\nsuperiora , requiring two or three years. Boys were admitted to the\nlower course at the age of fourteen, and the work consisted chiefly of\nthe study of the humanities, while that of the advanced course embraced\nphilosophy and theology. [68] With reference to these courses of study,\nQuick says, \"The Jesuit system stands out in the history of education as\na remarkable instance of a school system elaborately thought out and\nworked as a whole.\" Again, he says of the Ratio Studiorum : [69] \"It\npoints out a perfectly attainable goal, and carefully defines the road\nby which that goal is to be approached. For each class was prescribed\nnot only the work to be done,",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 5,
+            "metadata": {
+              "unit_id": "chapter_xxx_u04",
+              "chapter": "CHAPTER XXX",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 1622,
+              "strategy": "C",
+              "chunk_index": 0
+            },
+            "score": 0.5440860440812222
+          }
+        ],
+        "context": "[gutenberg-27963::C::p004::c001 | data/book.epub | page 4]\nnough to supply the\ndemands for higher education.\" [65] This shows that they held higher\neducation as of the greater importance, and the same author further\nadds: \"Besides, the whole intellectual training of the Jesuits fitted\nthem better for the higher branches.\" They reached sons of princes,\nnoblemen, and others who constituted the influential classes, [66] but\n\"the Constitutions expressly laid down that poverty and mean extraction\nwere never to be any hindrance to a pupil's admission.\" [67] Instruction\nwas free.\n\n[gutenberg-27963::C::p004::c000 | data/book.epub | page 4]\nJesuit Education. —Unlike the monastics, the Jesuits mingled with the\nworld; they assumed no peculiarities of dress, and held themselves ready\nto act as missionaries to the most remote parts of the world, as agents\nof the Church to which they so fully consecrated themselves, and as\nteachers of youth. They established schools everywhere, and placed them\nin charge of teachers of remarkable skill and pedagogical training. [64] We have seen that their efforts were chiefly directed to higher\neducation, their schools being designed for boys not less than fourteen\nyears of age. In general, primary education did not enter into their\nscheme. Schwickerath thinks that the \"Jesuits could not undertake\nelementary education\" because \"they had never men enough to supply the\ndemands for higher education.\"",
+        "context_ids": [
+          "gutenberg-27963::C::p004::c001",
+          "gutenberg-27963::C::p004::c000"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ]
+  },
+  {
+    "query_id": "q03",
+    "question": "What major contribution to spelling instruction was introduced by the Port Royalists?",
+    "expected": "They invented the phonic method of spelling.",
+    "status": "answered",
+    "answer": "The Port Royalists introduced the phonic method of spelling as a major contribution to spelling instruction [gutenberg-27963::C::p016::c003]",
+    "citations": [
+      "gutenberg-27963::C::p016::c003"
+    ],
+    "latency_ms": 3307.67,
+    "events": [
+      {
+        "event": "search",
+        "query": "Port Royalists contribution to spelling instruction",
+        "filter": null,
+        "results": [
+          {
+            "id": "gutenberg-27963::C::p016::c003",
+            "text": "3. The Jesuits established a remarkable system of schools, noted for\ntheir thoroughness, for their singleness of purpose, for their rapid\ngrowth, and for their trained teachers. They gave little attention to\nprimary education, but sought to reach the higher classes. Emulation was\nthe principal incentive employed.\n\n4. Opposed to the Jesuit education was that of the Port Royalists. They\nappealed to the intelligence of the children and cultivated the\nsense-perceptions. They invented the phonic method of spelling.\n\n5. Sturm's celebrated course of study was introduced during this century\nat Strasburg.\n\n6. The method of double translations in learning a language was taught\nby Ascham and Sturm.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 16,
+            "metadata": {
+              "unit_id": "chapter_xxxi_u08",
+              "chapter": "CHAPTER XXXI",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 3021,
+              "strategy": "C",
+              "chunk_index": 3
+            },
+            "score": 0.5204312970412612
+          },
+          {
+            "id": "gutenberg-27963::C::p008::c000",
+            "text": "6. They made use of emulation as a means of stimulating ambition,—a\nprinciple that tends to arouse the baser motives, and which is therefore\nto be used guardedly.\n\n7. They were indefatigable in missionary enterprise, and zealous in the\npropagation of their principles, both religious and educational.\n\n8. They stimulated authorship, advanced learning, and produced many\ngreat men.\n\n9. They exerted a powerful influence upon the intellectual, social, and\npolitical movements of their time.\n\nTHE PORT ROYALISTS",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 8,
+            "metadata": {
+              "unit_id": "chapter_xxx_u07",
+              "chapter": "CHAPTER XXX",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 2534,
+              "strategy": "C",
+              "chunk_index": 0
+            },
+            "score": 0.5061652726817547
+          },
+          {
+            "id": "gutenberg-27963::C::p008::c002",
+            "text": "Their greatest contribution to education is the phonic method of\nspelling. They also laid stress upon the use of objects, the development\nof the sense perceptions, especially in early childhood. One of their\naxioms was, \"The intelligence of childhood always being very dependent\non the senses, we must, as far as possible, address our instruction to\nthe senses, and cause it to reach the mind, not only through hearing,\nbut also through seeing.\" This appears to be the first instance in which object teaching was taught as a principle, a principle which Bacon,\nComenius, Pestalozzi, and Froebel worked out, and which has been one of\nthe most important factors of modern educational progress.\n\n[63] \"Jesuit Education,\" p. 77.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 8,
+            "metadata": {
+              "unit_id": "chapter_xxx_u07",
+              "chapter": "CHAPTER XXX",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 2534,
+              "strategy": "C",
+              "chunk_index": 2
+            },
+            "score": 0.4282156494520706
+          }
+        ],
+        "context": "[gutenberg-27963::C::p016::c003 | data/book.epub | page 16]\n3. The Jesuits established a remarkable system of schools, noted for\ntheir thoroughness, for their singleness of purpose, for their rapid\ngrowth, and for their trained teachers. They gave little attention to\nprimary education, but sought to reach the higher classes. Emulation was\nthe principal incentive employed.\n\n4. Opposed to the Jesuit education was that of the Port Royalists. They\nappealed to the intelligence of the children and cultivated the\nsense-perceptions. They invented the phonic method of spelling.\n\n5. Sturm's celebrated course of study was introduced during this century\nat Strasburg.\n\n6. The method of double translations in learning a language was taught\nby Ascham and Sturm.\n\n[gutenberg-27963::C::p008::c000 | data/book.epub | page 8]\n6. They made use of emulation as a means of stimulating ambition,—a\nprinciple that tends to arouse the baser motives, and which is therefore\nto be used guardedly.\n\n7. They were indefatigable in missionary enterprise, and zealous in the\npropagation of their principles, both religious and educational.\n\n8. They stimulated authorship, advanced learning, and produced many\ngreat men.\n\n9. They exerted a powerful influence upon the intellectual, social, and\npolitical movements of their time.\n\nTHE PORT ROYALISTS",
+        "context_ids": [
+          "gutenberg-27963::C::p016::c003",
+          "gutenberg-27963::C::p008::c000"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ]
+  },
+  {
+    "query_id": "q21_unans",
+    "question": "What exact annual salary in gold marks did Pestalozzi receive from the Prussian king for founding the Burgdorf institute?",
+    "expected": "INSUFFICIENT_EVIDENCE",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "latency_ms": 2737.22,
+    "events": [
+      {
+        "event": "search",
+        "query": "Pestalozzi annual salary gold marks Prussian king Burgdorf institute",
+        "filter": null,
+        "results": [
+          {
+            "id": "gutenberg-27963::C::p077::c000",
+            "text": "Upon his dismissal from this position he united with Hermann Krüsi in\nfounding a private school. Pupils increased in numbers, and at last\nPestalozzi was on the road to success as well as fame. He gathered a\nstrong corps of teachers about him, who not only contributed to the\nsuccess of the institution, but sat at the feet of their recognized\nmaster, and loyally supported his measures. During his life at Burgdorf,\nhe issued his work entitled \"How Gertrude teaches her Children\" (1801),\nin which he attempts to give his system of education. \"A work,\" says\nProfessor Hunziker, [139] \"whose contents in no way meet the demands of\nthe subtitle.\" (The full title is, \"How Gertrude teaches her Children;\nan Attempt to direct Mothers how to teach their own Children.\")",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 77,
+            "metadata": {
+              "unit_id": "chapter_xxxviii_u10",
+              "chapter": "CHAPTER XXXVIII",
+              "part": "part_4",
+              "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+              "char_count": 2111,
+              "strategy": "C",
+              "chunk_index": 0
+            },
+            "score": 0.5702043738855087
+          },
+          {
+            "id": "gutenberg-27963::C::p077::c001",
+            "text": "Yverdon. —In 1804 Pestalozzi was obliged to vacate his quarters at\nBurgdorf, and after some hesitation he moved his school to Yverdon, into\nan old fortress, \"which,\" says Krüsi, \"having stood many a siege of\ninvading armies, was now captured by a schoolmaster; and it was\nhenceforth to become more formidable in its attack upon ignorance, than\nit had before been in its defense of liberty.\" At Yverdon Pestalozzi was\nenabled to carry out the principles of education which he had so long\nheld, and this place must be recognized as the Mecca of\nPestalozzianism. His success at Burgdorf had drawn to him the attention\nof the world, and now educators, philosophers, and princes began to\nstudy his theories, while many visited the institution to witness its\npeculiar workings. Without doubt the many visit",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 77,
+            "metadata": {
+              "unit_id": "chapter_xxxviii_u10",
+              "chapter": "CHAPTER XXXVIII",
+              "part": "part_4",
+              "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+              "char_count": 2111,
+              "strategy": "C",
+              "chunk_index": 1
+            },
+            "score": 0.5353512607375096
+          },
+          {
+            "id": "gutenberg-27963::C::p076::c002",
+            "text": "Burgdorf. —But Stanz proved the turning point in Pestalozzi's career.\nHe was soon chosen assistant teacher at Burgdorf. His experience at\nStanz, without books and without appliances, had compelled him to invent\nmethods of interesting the children. He was thus brought to the use of\nobjects, and here we have the beginning of practical object teaching. It\nwas not long, however, before the head master of the school became\njealous of him because he secured the attention and affection of the\npupils, and Pestalozzi's dismissal was obtained on the ground that he\ndid not know how to read and spell correctly, a charge which, as we have\nseen, was without doubt true. As to his method of teaching, Ramsauer,\none of his pupils, tells us that \"there was no regular plan, not any\ntime-table.... As Pestalozz",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 76,
+            "metadata": {
+              "unit_id": "chapter_xxxviii_u09",
+              "chapter": "CHAPTER XXXVIII",
+              "part": "part_4",
+              "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+              "char_count": 3008,
+              "strategy": "C",
+              "chunk_index": 2
+            },
+            "score": 0.525748650789662
+          }
+        ],
+        "context": "[gutenberg-27963::C::p077::c000 | data/book.epub | page 77]\nUpon his dismissal from this position he united with Hermann Krüsi in\nfounding a private school. Pupils increased in numbers, and at last\nPestalozzi was on the road to success as well as fame. He gathered a\nstrong corps of teachers about him, who not only contributed to the\nsuccess of the institution, but sat at the feet of their recognized\nmaster, and loyally supported his measures. During his life at Burgdorf,\nhe issued his work entitled \"How Gertrude teaches her Children\" (1801),\nin which he attempts to give his system of education. \"A work,\" says\nProfessor Hunziker, [139] \"whose contents in no way meet the demands of\nthe subtitle.\" (The full title is, \"How Gertrude teaches her Children;\nan Attempt to direct Mothers how to teach their own Children.\")\n\n[gutenberg-27963::C::p077::c001 | data/book.epub | page 77]\nYverdon. —In 1804 Pestalozzi was obliged to vacate his quarters at\nBurgdorf, and after some hesitation he moved his school to Yverdon, into\nan old fortress, \"which,\" says Krüsi, \"having stood many a siege of\ninvading armies, was now captured by a schoolmaster; and it was\nhenceforth to become more formidable in its attack upon ignorance, than\nit had before been in its defense of liberty.\" At Yverdon Pestalozzi was\nenabled to carry out the principles of education which he had so long\nheld, and this place must be recognized as the Mecca of\nPestalozzianism. His success at Burgdorf had drawn to him the attention\nof the world, and now educators, philosophers, and princes began to\nstudy his theories, while many visited the institution to witness its\npeculiar workings. Without doubt the many visit",
+        "context_ids": [
+          "gutenberg-27963::C::p077::c000",
+          "gutenberg-27963::C::p077::c001"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ]
+  },
+  {
+    "query_id": "q22_unans",
+    "question": "How many volumes of Froebel's personal diaries were destroyed during the 1871 fire in Berlin according to Levi Seeley?",
+    "expected": "INSUFFICIENT_EVIDENCE",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "latency_ms": 3337.57,
+    "events": [
+      {
+        "event": "search",
+        "query": "Froebel personal diaries destroyed 1871 fire Berlin Levi Seeley",
+        "filter": null,
+        "results": [
+          {
+            "id": "gutenberg-27963::C::p081::c000",
+            "text": "FROEBEL (1782-1852)\n\nLiterature. — Lange , Collected Writings of F. Froebel; Kriege ,\nFriedrich Froebel; Bowen , Froebel and Education by Self-activity; Herford , The Student's Froebel; Froebel , Education of Man; Quick ,\nEducational Reformers; Munroe , Educational Ideal; Williams , History\nof Modern Education; Marenholtz-Bülow , Reminiscences of F. Froebel; Rein , Encyklopädisches Handbuch der Pädagogik.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 81,
+            "metadata": {
+              "unit_id": "chapter_xxxix_u01",
+              "chapter": "CHAPTER XXXIX",
+              "part": "part_4",
+              "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+              "char_count": 1734,
+              "strategy": "C",
+              "chunk_index": 0
+            },
+            "score": 0.5216753633735921
+          },
+          {
+            "id": "gutenberg-27963::C::p084::c000",
+            "text": "His First School. —In 1816 Froebel opened his first school at\nGriesheim, under the high-sounding title of \"Universal German\nEducational Institute.\" At first he had his five nephews as his only\npupils. Soon after, the school was removed to Keilhau, near Rudolstadt,\nin the Thüringian Forest. Here he was joined by his old friends\nMiddendorff and Langethal. This institution continued for a number of\nyears with some success, until 1833, when Froebel removed to Burgdorf,\nSwitzerland. The Prussian government, far from giving encouragement to\nthe institution at Keilhau, had regarded it with suspicion. A commission\nwas sent by the government to examine the institution, and although the\nreport was highly complimentary to Froebel's work, [151] the persecution\ndid not cease. In 1851 the government pro",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 84,
+            "metadata": {
+              "unit_id": "chapter_xxxix_u04",
+              "chapter": "CHAPTER XXXIX",
+              "part": "part_4",
+              "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+              "char_count": 1557,
+              "strategy": "C",
+              "chunk_index": 0
+            },
+            "score": 0.5100533116760981
+          },
+          {
+            "id": "gutenberg-27963::C::p083::c003",
+            "text": "After leaving Yverdon, Froebel spent about two years at the universities\nof Göttingen and Berlin in furthering his preparation for educational\nreform, to which he had devoted himself. In 1813 war for German liberty\nbroke out, and Froebel, with many other students, enlisted. It is not\nthe purpose here to follow his fortunes as a soldier, but while in the\narmy he made the acquaintance of two young men who afterward became\nassociated with him in educational enterprise,—Wilhelm Middendorff and\nHeinrich Langethal.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 83,
+            "metadata": {
+              "unit_id": "chapter_xxxix_u03",
+              "chapter": "CHAPTER XXXIX",
+              "part": "part_4",
+              "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+              "char_count": 1827,
+              "strategy": "C",
+              "chunk_index": 3
+            },
+            "score": 0.49273796945445314
+          }
+        ],
+        "context": "[gutenberg-27963::C::p081::c000 | data/book.epub | page 81]\nFROEBEL (1782-1852)\n\nLiterature. — Lange , Collected Writings of F. Froebel; Kriege ,\nFriedrich Froebel; Bowen , Froebel and Education by Self-activity; Herford , The Student's Froebel; Froebel , Education of Man; Quick ,\nEducational Reformers; Munroe , Educational Ideal; Williams , History\nof Modern Education; Marenholtz-Bülow , Reminiscences of F. Froebel; Rein , Encyklopädisches Handbuch der Pädagogik.\n\n[gutenberg-27963::C::p084::c000 | data/book.epub | page 84]\nHis First School. —In 1816 Froebel opened his first school at\nGriesheim, under the high-sounding title of \"Universal German\nEducational Institute.\" At first he had his five nephews as his only\npupils. Soon after, the school was removed to Keilhau, near Rudolstadt,\nin the Thüringian Forest. Here he was joined by his old friends\nMiddendorff and Langethal. This institution continued for a number of\nyears with some success, until 1833, when Froebel removed to Burgdorf,\nSwitzerland. The Prussian government, far from giving encouragement to\nthe institution at Keilhau, had regarded it with suspicion. A commission\nwas sent by the government to examine the institution, and although the\nreport was highly complimentary to Froebel's work, [151] the persecution\ndid not cease. In 1851 the government pro",
+        "context_ids": [
+          "gutenberg-27963::C::p081::c000",
+          "gutenberg-27963::C::p084::c000"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "Froebel personal diaries destroyed 1871 fire Berlin Levi Seeley",
+        "filter": null,
+        "results": [
+          {
+            "id": "gutenberg-27963::C::p081::c000",
+            "text": "FROEBEL (1782-1852)\n\nLiterature. — Lange , Collected Writings of F. Froebel; Kriege ,\nFriedrich Froebel; Bowen , Froebel and Education by Self-activity; Herford , The Student's Froebel; Froebel , Education of Man; Quick ,\nEducational Reformers; Munroe , Educational Ideal; Williams , History\nof Modern Education; Marenholtz-Bülow , Reminiscences of F. Froebel; Rein , Encyklopädisches Handbuch der Pädagogik.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 81,
+            "metadata": {
+              "unit_id": "chapter_xxxix_u01",
+              "chapter": "CHAPTER XXXIX",
+              "part": "part_4",
+              "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+              "char_count": 1734,
+              "strategy": "C",
+              "chunk_index": 0
+            },
+            "score": 0.5216546113748226
+          },
+          {
+            "id": "gutenberg-27963::C::p084::c000",
+            "text": "His First School. —In 1816 Froebel opened his first school at\nGriesheim, under the high-sounding title of \"Universal German\nEducational Institute.\" At first he had his five nephews as his only\npupils. Soon after, the school was removed to Keilhau, near Rudolstadt,\nin the Thüringian Forest. Here he was joined by his old friends\nMiddendorff and Langethal. This institution continued for a number of\nyears with some success, until 1833, when Froebel removed to Burgdorf,\nSwitzerland. The Prussian government, far from giving encouragement to\nthe institution at Keilhau, had regarded it with suspicion. A commission\nwas sent by the government to examine the institution, and although the\nreport was highly complimentary to Froebel's work, [151] the persecution\ndid not cease. In 1851 the government pro",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 84,
+            "metadata": {
+              "unit_id": "chapter_xxxix_u04",
+              "chapter": "CHAPTER XXXIX",
+              "part": "part_4",
+              "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+              "char_count": 1557,
+              "strategy": "C",
+              "chunk_index": 0
+            },
+            "score": 0.5100661387200619
+          },
+          {
+            "id": "gutenberg-27963::C::p083::c003",
+            "text": "After leaving Yverdon, Froebel spent about two years at the universities\nof Göttingen and Berlin in furthering his preparation for educational\nreform, to which he had devoted himself. In 1813 war for German liberty\nbroke out, and Froebel, with many other students, enlisted. It is not\nthe purpose here to follow his fortunes as a soldier, but while in the\narmy he made the acquaintance of two young men who afterward became\nassociated with him in educational enterprise,—Wilhelm Middendorff and\nHeinrich Langethal.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 83,
+            "metadata": {
+              "unit_id": "chapter_xxxix_u03",
+              "chapter": "CHAPTER XXXIX",
+              "part": "part_4",
+              "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+              "char_count": 1827,
+              "strategy": "C",
+              "chunk_index": 3
+            },
+            "score": 0.4927218065174929
+          }
+        ],
+        "context": "[gutenberg-27963::C::p081::c000 | data/book.epub | page 81]\nFROEBEL (1782-1852)\n\nLiterature. — Lange , Collected Writings of F. Froebel; Kriege ,\nFriedrich Froebel; Bowen , Froebel and Education by Self-activity; Herford , The Student's Froebel; Froebel , Education of Man; Quick ,\nEducational Reformers; Munroe , Educational Ideal; Williams , History\nof Modern Education; Marenholtz-Bülow , Reminiscences of F. Froebel; Rein , Encyklopädisches Handbuch der Pädagogik.\n\n[gutenberg-27963::C::p084::c000 | data/book.epub | page 84]\nHis First School. —In 1816 Froebel opened his first school at\nGriesheim, under the high-sounding title of \"Universal German\nEducational Institute.\" At first he had his five nephews as his only\npupils. Soon after, the school was removed to Keilhau, near Rudolstadt,\nin the Thüringian Forest. Here he was joined by his old friends\nMiddendorff and Langethal. This institution continued for a number of\nyears with some success, until 1833, when Froebel removed to Burgdorf,\nSwitzerland. The Prussian government, far from giving encouragement to\nthe institution at Keilhau, had regarded it with suspicion. A commission\nwas sent by the government to examine the institution, and although the\nreport was highly complimentary to Froebel's work, [151] the persecution\ndid not cease. In 1851 the government pro",
+        "context_ids": [
+          "gutenberg-27963::C::p081::c000",
+          "gutenberg-27963::C::p084::c000"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ]
+  }
+]

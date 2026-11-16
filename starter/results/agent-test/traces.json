@@ -1,0 +1,800 @@
+[
+  {
+    "query_id": "q16",
+    "question": "In Jesuit institutions, how were students divided between the lower and higher departments, and at what age were boys admitted to the lower course?",
+    "expected_answer": "The lower department (studia inferiora) had five classes admitting boys at age fourteen, while the higher department (studia superiora) required two or three years.",
+    "status": "answered",
+    "answer": "Students in Jesuit institutions were divided into two departments: the lower department (studia inferiora) and the higher department (studia superiora). Boys were admitted to the lower course at the age of fourteen, where they studied the humanities, while the higher course included philosophy and theology [gutenberg-27963::C::p005::c000].",
+    "citations": [
+      "gutenberg-27963::C::p005::c000"
+    ],
+    "latency_ms": 4567.6,
+    "events": [
+      {
+        "event": "search",
+        "query": "Jesuit institutions students division lower higher departments age admission lower course",
+        "filter": null,
+        "results": [
+          {
+            "id": "gutenberg-27963::C::p005::c000",
+            "text": "Every Jesuit school was divided into two departments, the lower, studia inferiora , consisting of five classes, and the higher, studia\nsuperiora , requiring two or three years. Boys were admitted to the\nlower course at the age of fourteen, and the work consisted chiefly of\nthe study of the humanities, while that of the advanced course embraced\nphilosophy and theology. [68] With reference to these courses of study,\nQuick says, \"The Jesuit system stands out in the history of education as\na remarkable instance of a school system elaborately thought out and\nworked as a whole.\" Again, he says of the Ratio Studiorum : [69] \"It\npoints out a perfectly attainable goal, and carefully defines the road\nby which that goal is to be approached. For each class was prescribed\nnot only the work to be done,",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 5,
+            "metadata": {
+              "unit_id": "chapter_xxx_u04",
+              "chapter": "CHAPTER XXX",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 1622,
+              "strategy": "C",
+              "chunk_index": 0
+            },
+            "score": 0.6952101851372494
+          },
+          {
+            "id": "gutenberg-27963::C::p004::c000",
+            "text": "Jesuit Education. —Unlike the monastics, the Jesuits mingled with the\nworld; they assumed no peculiarities of dress, and held themselves ready\nto act as missionaries to the most remote parts of the world, as agents\nof the Church to which they so fully consecrated themselves, and as\nteachers of youth. They established schools everywhere, and placed them\nin charge of teachers of remarkable skill and pedagogical training. [64] We have seen that their efforts were chiefly directed to higher\neducation, their schools being designed for boys not less than fourteen\nyears of age. In general, primary education did not enter into their\nscheme. Schwickerath thinks that the \"Jesuits could not undertake\nelementary education\" because \"they had never men enough to supply the\ndemands for higher education.\"",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 4,
+            "metadata": {
+              "unit_id": "chapter_xxx_u03",
+              "chapter": "CHAPTER XXX",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 1818,
+              "strategy": "C",
+              "chunk_index": 0
+            },
+            "score": 0.5143145789087824
+          },
+          {
+            "id": "gutenberg-27963::C::p004::c001",
+            "text": "nough to supply the\ndemands for higher education.\" [65] This shows that they held higher\neducation as of the greater importance, and the same author further\nadds: \"Besides, the whole intellectual training of the Jesuits fitted\nthem better for the higher branches.\" They reached sons of princes,\nnoblemen, and others who constituted the influential classes, [66] but\n\"the Constitutions expressly laid down that poverty and mean extraction\nwere never to be any hindrance to a pupil's admission.\" [67] Instruction\nwas free.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 4,
+            "metadata": {
+              "unit_id": "chapter_xxx_u03",
+              "chapter": "CHAPTER XXX",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 1818,
+              "strategy": "C",
+              "chunk_index": 1
+            },
+            "score": 0.5137567680073656
+          },
+          {
+            "id": "gutenberg-27963::C::p005::c002",
+            "text": "After the society had been in existence some forty years, Claudius\nAquaviva became its General Superior. He at once began the study of the\neducational problem, using all the resources of his office in obtaining\ninformation, and employing his executive ability in producing an\nimproved method of study. A committee of twelve most eminent churchmen\nwas appointed in 1581 to study the question, and three years later a\ncommission of six, representing different countries, began the labor of\npreparing a course of study. Their work, called the Ratio\nStudiorum , [70] completed in 1599, has remained, with some\nmodifications, the guide of Jesuit institutions of learning.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 5,
+            "metadata": {
+              "unit_id": "chapter_xxx_u04",
+              "chapter": "CHAPTER XXX",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 1622,
+              "strategy": "C",
+              "chunk_index": 2
+            },
+            "score": 0.4408547372343476
+          },
+          {
+            "id": "gutenberg-27963::C::p008::c003",
+            "text": "[64] See Hughes, \"Loyola,\" pp. 46, 113, 156, 282. Also\nSchwickerath, \"Jesuit Education,\" p. 415.\n\n[65] \"Jesuit Education,\" p. 105. See also Hughes, \"Loyola,\" pp.\n4, 14, 43, 46, 68, 72, 82, and 86 (lines 12-23).\n\n[66] See Hughes, \"Loyola,\" pp. 72, 151.\n\n[67] \"Educational Reformers\" p. 26.\n\n[68] K. Schmidt, Vol. III, p. 230.\n\n[69] \"Educational Reformers,\" p. 34.\n\n[70] See Hughes, \"Loyola,\" p. 141, for full description of this\nwork and outline of the course. Also Schwickerath, \"Jesuit Education,\"\np. 191.\n\n[71] See Hughes, \"Loyola,\" p. 511.\n\n[72] \"Educational Reformers,\" p. 35.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 8,
+            "metadata": {
+              "unit_id": "chapter_xxx_u07",
+              "chapter": "CHAPTER XXX",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 2534,
+              "strategy": "C",
+              "chunk_index": 3
+            },
+            "score": 0.42729425997034015
+          }
+        ],
+        "context": "[gutenberg-27963::C::p005::c000 | data/book.epub | page 5]\nEvery Jesuit school was divided into two departments, the lower, studia inferiora , consisting of five classes, and the higher, studia\nsuperiora , requiring two or three years. Boys were admitted to the\nlower course at the age of fourteen, and the work consisted chiefly of\nthe study of the humanities, while that of the advanced course embraced\nphilosophy and theology. [68] With reference to these courses of study,\nQuick says, \"The Jesuit system stands out in the history of education as\na remarkable instance of a school system elaborately thought out and\nworked as a whole.\" Again, he says of the Ratio Studiorum : [69] \"It\npoints out a perfectly attainable goal, and carefully defines the road\nby which that goal is to be approached. For each class was prescribed\nnot only the work to be done,\n\n[gutenberg-27963::C::p004::c000 | data/book.epub | page 4]\nJesuit Education. —Unlike the monastics, the Jesuits mingled with the\nworld; they assumed no peculiarities of dress, and held themselves ready\nto act as missionaries to the most remote parts of the world, as agents\nof the Church to which they so fully consecrated themselves, and as\nteachers of youth. They established schools everywhere, and placed them\nin charge of teachers of remarkable skill and pedagogical training. [64] We have seen that their efforts were chiefly directed to higher\neducation, their schools being designed for boys not less than fourteen\nyears of age. In general, primary education did not enter into their\nscheme. Schwickerath thinks that the \"Jesuits could not undertake\nelementary education\" because \"they had never men enough to supply the\ndemands for higher education.\"\n\n[gutenberg-27963::C::p004::c001 | data/book.epub | page 4]\nnough to supply the\ndemands for higher education.\" [65] This shows that they held higher\neducation as of the greater importance, and the same author further\nadds: \"Besides, the whole intellectual training of the Jesuits fitted\nthem better for the higher branches.\" They reached sons of princes,\nnoblemen, and others who constituted the influential classes, [66] but\n\"the Constitutions expressly laid down that poverty and mean extraction\nwere never to be any hindrance to a pupil's admission.\" [67] Instruction\nwas free.\n\n[gutenberg-27963::C::p008::c003 | data/book.epub | page 8]\n[64] See Hughes, \"Loyola,\" pp. 46, 113, 156, 282. Also\nSchwickerath, \"Jesuit Education,\" p. 415.\n\n[65] \"Jesuit Education,\" p. 105. See also Hughes, \"Loyola,\" pp.\n4, 14, 43, 46, 68, 72, 82, and 86 (lines 12-23).\n\n[66] See Hughes, \"Loyola,\" pp. 72, 151.\n\n[67] \"Educational Reformers\" p. 26.\n\n[68] K. Schmidt, Vol. III, p. 230.\n\n[69] \"Educational Reformers,\" p. 34.\n\n[70] See Hughes, \"Loyola,\" p. 141, for full description of this\nwork and outline of the course. Also Schwickerath, \"Jesuit Education,\"\np. 191.\n\n[71] See Hughes, \"Loyola,\" p. 511.\n\n[72] \"Educational Reformers,\" p. 35.",
+        "context_ids": [
+          "gutenberg-27963::C::p005::c000",
+          "gutenberg-27963::C::p004::c000",
+          "gutenberg-27963::C::p004::c001",
+          "gutenberg-27963::C::p008::c003"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ]
+  },
+  {
+    "query_id": "q17",
+    "question": "What three major contributions did La Salle make to education?",
+    "expected_answer": "The Simultaneous Method of Instruction, the first Normal School at Rheims in 1684, and dignifying the teaching profession with full-time trained instructors.",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "latency_ms": 3984.34,
+    "events": [
+      {
+        "event": "search",
+        "query": "La Salle contributions to education",
+        "filter": null,
+        "results": [
+          {
+            "id": "gutenberg-27963::C::p042::c003",
+            "text": "Education, therefore, owes to La Salle three important\ncontributions,—(1) the Simultaneous Method of Instruction, whereby a\nnumber of children of the same advancement are taught together; (2) the\nfirst Normal School, established at Rheims, France, in 1684; and (3) a\ndignifying of the teacher's profession by setting apart trained persons\nwho should give all their time to the work of teaching.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 42,
+            "metadata": {
+              "unit_id": "chapter_xxxiii_u22",
+              "chapter": "CHAPTER XXXIII",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 1823,
+              "strategy": "C",
+              "chunk_index": 3
+            },
+            "score": 0.7403339188892764
+          },
+          {
+            "id": "gutenberg-27963::C::p042::c000",
+            "text": "La Salle laid down many explicit rules concerning punishment, methods of\nteaching, and school organization in a book called \"The Conduct of\nSchools.\" While modern criticism would condemn many of these rules, we\nthink, with Compayré, that \"whatever the distance which separates these\ngloomy schools from our modern ideal,—from the pleasant, active,\nanimated school, such as we conceive it to-day,—there is none the less\nobligation to do justice to La Salle, to pardon him for practices which\nwere those of his time, and to admire him for the good qualities that\nwere peculiarly his own.\" [114]",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 42,
+            "metadata": {
+              "unit_id": "chapter_xxxiii_u22",
+              "chapter": "CHAPTER XXXIII",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 1823,
+              "strategy": "C",
+              "chunk_index": 0
+            },
+            "score": 0.6431931886198832
+          },
+          {
+            "id": "gutenberg-27963::C::p042::c001",
+            "text": "He established the first normal school in history at Rheims in 1684,\nthirteen years before Francke organized his teachers' class at Halle,\nand fifty years before Hecker founded the first Prussian normal school\nat Stettin. La Salle magnified the teacher's office, and urgently\ndemanded professional training for instructors of the young. Brother\nAzarias forcibly sums up La Salle's great work in this respect as\nfollows: \"He is the benefactor of the modern schoolmaster. He it was who\nraised primary teaching out of the ruts of never ending routine, carried\non in the midst of time-honored noise and confusion, and, in giving it\nprinciples and a method, made of it a science. He hedged in the dignity\nof the schoolmaster. He was the first to assert the exclusive right of\nthe master to devote his whol",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 42,
+            "metadata": {
+              "unit_id": "chapter_xxxiii_u22",
+              "chapter": "CHAPTER XXXIII",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 1823,
+              "strategy": "C",
+              "chunk_index": 1
+            },
+            "score": 0.631459919874475
+          },
+          {
+            "id": "gutenberg-27963::C::p041::c001",
+            "text": "LA SALLE AND THE BROTHERS OF THE CHRISTIAN SCHOOLS [113]\n\nIn 1681, La Salle, a devoted priest of the Catholic Church, organized\nthe Brothers of the Christian Schools .",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 41,
+            "metadata": {
+              "unit_id": "chapter_xxxiii_u21",
+              "chapter": "CHAPTER XXXIII",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 2002,
+              "strategy": "C",
+              "chunk_index": 1
+            },
+            "score": 0.6296048098267628
+          },
+          {
+            "id": "gutenberg-27963::C::p041::c002",
+            "text": "The idea primarily was to awaken interest in elementary education. He\nperfected the work already done by Peter Faurier, Charles Demia, and\nothers. The method of instruction, up to this time, had been largely\nindividual. The pupils were called up to the teacher, one by one, or at\nmost two by two, and, after the lesson had been heard, they were sent\nback to their seats to study. La Salle conceived the idea of grading\ntogether pupils of the same advancement, and teaching them\nsimultaneously,—a practice now employed in primary schools everywhere.\nIt is known as the Simultaneous Method . Brother Azarias says of this\nmethod, \"Because we all of us have been trained according to this\nmethod, and see it practiced in nearly all of our public and many of our\nprivate schools throughout the land, and h",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 41,
+            "metadata": {
+              "unit_id": "chapter_xxxiii_u21",
+              "chapter": "CHAPTER XXXIII",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 2002,
+              "strategy": "C",
+              "chunk_index": 2
+            },
+            "score": 0.546940518918215
+          }
+        ],
+        "context": "[gutenberg-27963::C::p042::c003 | data/book.epub | page 42]\nEducation, therefore, owes to La Salle three important\ncontributions,—(1) the Simultaneous Method of Instruction, whereby a\nnumber of children of the same advancement are taught together; (2) the\nfirst Normal School, established at Rheims, France, in 1684; and (3) a\ndignifying of the teacher's profession by setting apart trained persons\nwho should give all their time to the work of teaching.\n\n[gutenberg-27963::C::p042::c000 | data/book.epub | page 42]\nLa Salle laid down many explicit rules concerning punishment, methods of\nteaching, and school organization in a book called \"The Conduct of\nSchools.\" While modern criticism would condemn many of these rules, we\nthink, with Compayré, that \"whatever the distance which separates these\ngloomy schools from our modern ideal,—from the pleasant, active,\nanimated school, such as we conceive it to-day,—there is none the less\nobligation to do justice to La Salle, to pardon him for practices which\nwere those of his time, and to admire him for the good qualities that\nwere peculiarly his own.\" [114]\n\n[gutenberg-27963::C::p042::c001 | data/book.epub | page 42]\nHe established the first normal school in history at Rheims in 1684,\nthirteen years before Francke organized his teachers' class at Halle,\nand fifty years before Hecker founded the first Prussian normal school\nat Stettin. La Salle magnified the teacher's office, and urgently\ndemanded professional training for instructors of the young. Brother\nAzarias forcibly sums up La Salle's great work in this respect as\nfollows: \"He is the benefactor of the modern schoolmaster. He it was who\nraised primary teaching out of the ruts of never ending routine, carried\non in the midst of time-honored noise and confusion, and, in giving it\nprinciples and a method, made of it a science. He hedged in the dignity\nof the schoolmaster. He was the first to assert the exclusive right of\nthe master to devote his whol\n\n[gutenberg-27963::C::p041::c001 | data/book.epub | page 41]\nLA SALLE AND THE BROTHERS OF THE CHRISTIAN SCHOOLS [113]\n\nIn 1681, La Salle, a devoted priest of the Catholic Church, organized\nthe Brothers of the Christian Schools .",
+        "context_ids": [
+          "gutenberg-27963::C::p042::c003",
+          "gutenberg-27963::C::p042::c000",
+          "gutenberg-27963::C::p042::c001",
+          "gutenberg-27963::C::p041::c001"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ]
+  },
+  {
+    "query_id": "q18",
+    "question": "Why did the Prussian government prohibit kindergartens in 1851, and how long did that prohibition last?",
+    "expected_answer": "They prohibited them as part of a Froebelian socialistic system accused of teaching children atheism, and the decree lasted until 1860.",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "latency_ms": 3136.44,
+    "events": [
+      {
+        "event": "search",
+        "query": "Prussian government prohibit kindergartens 1851 duration",
+        "filter": null,
+        "results": [
+          {
+            "id": "gutenberg-27963::C::p084::c002",
+            "text": "Indeed, to this day, Prussia does not regard the kindergarten as an\neducational institution, nor does she give aid to it as such. The\nkindergarten is officially recognized as a sort of day nursery , its\nteachers are not licensed,—hence have no official standing,—and\n\"everything that pertains to the work of the elementary schools, every\nspecific preparation for the work of the latter, must be strictly\nexcluded, and these schools can in no way be allowed to take the\ncharacter of institutions of learning. Especially can neither reading\nnor arithmetic be allowed a place in them.\" [152]",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 84,
+            "metadata": {
+              "unit_id": "chapter_xxxix_u04",
+              "chapter": "CHAPTER XXXIX",
+              "part": "part_4",
+              "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+              "char_count": 1557,
+              "strategy": "C",
+              "chunk_index": 2
+            },
+            "score": 0.6749480082861699
+          },
+          {
+            "id": "gutenberg-27963::C::p084::c001",
+            "text": "secution\ndid not cease. In 1851 the government prohibited kindergartens, as\nforming \"a part of the Froebelian socialistic system, the aim of which\nis to teach children atheism\"; and this decree was in force till 1860!",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 84,
+            "metadata": {
+              "unit_id": "chapter_xxxix_u04",
+              "chapter": "CHAPTER XXXIX",
+              "part": "part_4",
+              "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+              "char_count": 1557,
+              "strategy": "C",
+              "chunk_index": 1
+            },
+            "score": 0.6305642143273045
+          },
+          {
+            "id": "gutenberg-27963::C::p019::c002",
+            "text": "The Educational Situation. —These political conditions had a marked\ninfluence upon education. Schools were abandoned, colleges gave up their\ncharters, and people were content to allow their children to grow up in\nignorance. Indeed, it was not to be expected that, in the midst of their\npoverty and sorrow, parents should care for education. And yet, some\nmost important and wise school laws were enacted and put into force,\nwhich form the basis of the present German school system, as well as the\nschool systems of many other countries. In 1619 the Duke of Weimar\ndecreed that all children, girls as well as boys, should be kept in\nschool for at least six years,—from six to twelve. This is the first\nefficient compulsory education law on record intended for all classes of\nchildren.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 19,
+            "metadata": {
+              "unit_id": "chapter_xxxii_u03",
+              "chapter": "CHAPTER XXXII",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 1977,
+              "strategy": "C",
+              "chunk_index": 2
+            },
+            "score": 0.5917419312599195
+          },
+          {
+            "id": "gutenberg-27963::C::p020::c000",
+            "text": "Besides Weimar, Würtemberg, Hesse-Darmstadt, Mecklenburg, Holstein,\nHesse-Cassel, and other provinces were active in school work. They\norganized schools, appointed teachers, and formulated school\nregulations. In 1642, Duke Ernst of Gotha adopted a new school\nregulation which was a century in advance of the time, and this action\nwas taken when the Thirty Years' War was at its height and in a\nterritory sadly devastated by contending armies.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 20,
+            "metadata": {
+              "unit_id": "chapter_xxxii_u04",
+              "chapter": "CHAPTER XXXII",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 2454,
+              "strategy": "C",
+              "chunk_index": 0
+            },
+            "score": 0.5511283368199766
+          },
+          {
+            "id": "gutenberg-27963::C::p084::c000",
+            "text": "His First School. —In 1816 Froebel opened his first school at\nGriesheim, under the high-sounding title of \"Universal German\nEducational Institute.\" At first he had his five nephews as his only\npupils. Soon after, the school was removed to Keilhau, near Rudolstadt,\nin the Thüringian Forest. Here he was joined by his old friends\nMiddendorff and Langethal. This institution continued for a number of\nyears with some success, until 1833, when Froebel removed to Burgdorf,\nSwitzerland. The Prussian government, far from giving encouragement to\nthe institution at Keilhau, had regarded it with suspicion. A commission\nwas sent by the government to examine the institution, and although the\nreport was highly complimentary to Froebel's work, [151] the persecution\ndid not cease. In 1851 the government pro",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 84,
+            "metadata": {
+              "unit_id": "chapter_xxxix_u04",
+              "chapter": "CHAPTER XXXIX",
+              "part": "part_4",
+              "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+              "char_count": 1557,
+              "strategy": "C",
+              "chunk_index": 0
+            },
+            "score": 0.549553437580754
+          }
+        ],
+        "context": "[gutenberg-27963::C::p084::c002 | data/book.epub | page 84]\nIndeed, to this day, Prussia does not regard the kindergarten as an\neducational institution, nor does she give aid to it as such. The\nkindergarten is officially recognized as a sort of day nursery , its\nteachers are not licensed,—hence have no official standing,—and\n\"everything that pertains to the work of the elementary schools, every\nspecific preparation for the work of the latter, must be strictly\nexcluded, and these schools can in no way be allowed to take the\ncharacter of institutions of learning. Especially can neither reading\nnor arithmetic be allowed a place in them.\" [152]\n\n[gutenberg-27963::C::p084::c001 | data/book.epub | page 84]\nsecution\ndid not cease. In 1851 the government prohibited kindergartens, as\nforming \"a part of the Froebelian socialistic system, the aim of which\nis to teach children atheism\"; and this decree was in force till 1860!\n\n[gutenberg-27963::C::p019::c002 | data/book.epub | page 19]\nThe Educational Situation. —These political conditions had a marked\ninfluence upon education. Schools were abandoned, colleges gave up their\ncharters, and people were content to allow their children to grow up in\nignorance. Indeed, it was not to be expected that, in the midst of their\npoverty and sorrow, parents should care for education. And yet, some\nmost important and wise school laws were enacted and put into force,\nwhich form the basis of the present German school system, as well as the\nschool systems of many other countries. In 1619 the Duke of Weimar\ndecreed that all children, girls as well as boys, should be kept in\nschool for at least six years,—from six to twelve. This is the first\nefficient compulsory education law on record intended for all classes of\nchildren.\n\n[gutenberg-27963::C::p020::c000 | data/book.epub | page 20]\nBesides Weimar, Würtemberg, Hesse-Darmstadt, Mecklenburg, Holstein,\nHesse-Cassel, and other provinces were active in school work. They\norganized schools, appointed teachers, and formulated school\nregulations. In 1642, Duke Ernst of Gotha adopted a new school\nregulation which was a century in advance of the time, and this action\nwas taken when the Thirty Years' War was at its height and in a\nterritory sadly devastated by contending armies.",
+        "context_ids": [
+          "gutenberg-27963::C::p084::c002",
+          "gutenberg-27963::C::p084::c001",
+          "gutenberg-27963::C::p019::c002",
+          "gutenberg-27963::C::p020::c000"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ]
+  },
+  {
+    "query_id": "q19",
+    "question": "What annual salary did Horace Mann accept when he became secretary of the Massachusetts State Board of Education?",
+    "expected_answer": "One thousand dollars a year.",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "latency_ms": 2522.37,
+    "events": [
+      {
+        "event": "search",
+        "query": "Horace Mann annual salary Massachusetts State Board of Education",
+        "filter": null,
+        "results": [
+          {
+            "id": "gutenberg-27963::C::p094::c001",
+            "text": "Mr. Martin summarizes the work of Horace Mann during these twelve years\nas follows: \"In the evolution of the Massachusetts public schools during\nthese twelve years of Mr. Mann's labors, statistics tell us that the\nappropriations for public schools had doubled; that more than two\nmillion dollars had been spent in providing better schoolhouses; that\nthe wages of men as teachers had increased sixty-two per cent, of women\nfifty-one per cent, while the whole number of women employed as teachers\nhad increased fifty-four per cent; one month had been added to the\naverage length of the schools; the ratio of private school expenditures\nto those of the public schools had diminished from seventy-five per cent\nto thirty-six per cent; the compensation of school committees had been\nmade compulsory, and t",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 94,
+            "metadata": {
+              "unit_id": "chapter_xli_u03",
+              "chapter": "CHAPTER XLI",
+              "part": "part_4",
+              "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+              "char_count": 1900,
+              "strategy": "C",
+              "chunk_index": 1
+            },
+            "score": 0.6135419868235326
+          },
+          {
+            "id": "gutenberg-27963::C::p092::c002",
+            "text": "Horace Mann was born at Franklin, Massachusetts, May 4, 1796. Inured to\nthe hard work of the farm, with but a few weeks' schooling in the\nwinter, never blessed with very rugged health, left at the age of\nthirteen by the death of his father with the responsibilities of a man,\nit is no wonder that he \"retained only painful recollections of the\nwhole period which ought to be, with every child, a golden age to look\nback upon.\" [165]",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 92,
+            "metadata": {
+              "unit_id": "chapter_xli_u01",
+              "chapter": "CHAPTER XLI",
+              "part": "part_4",
+              "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+              "char_count": 2002,
+              "strategy": "C",
+              "chunk_index": 2
+            },
+            "score": 0.5962100321350052
+          },
+          {
+            "id": "gutenberg-27963::C::p095::c004",
+            "text": "[164] Educational Review , Vol. XII, p. 65.\n\n[165] Mrs. Mann, \"Life of Horace Mann,\" p. 10.\n\n[166] Mr. Mann completed the term made vacant by the death of\nJohn Quincy Adams, and was reëlected for the two succeeding terms.\n\n[167] Colonel Parker in article cited.\n\n[168] For an analysis of these Reports, see Dr. Harris's\narticle in Educational Review , Vol. XII, p. 112.\n\n[169] \"Education in Massachusetts,\" p. 174.\n\n[170] \"Horace Mann,\" p. 76.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 95,
+            "metadata": {
+              "unit_id": "chapter_xli_u04",
+              "chapter": "CHAPTER XLI",
+              "part": "part_4",
+              "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+              "char_count": 2426,
+              "strategy": "C",
+              "chunk_index": 4
+            },
+            "score": 0.5733596611690215
+          },
+          {
+            "id": "gutenberg-27963::C::p092::c000",
+            "text": "HORACE MANN (1796-1859)\n\nLiterature. — Mrs. Mary T. Mann , Life of Horace Mann; Hinsdale ,\nHorace Mann; Winship , Horace Mann, the Educator; Lang , Horace Mann; F. W. Parker , Article in Educational Review, Vol. XII, p. 65; Wm. T.\nHarris , Educational Review, Vol. XII, p. 105; Martin , Education in\nMassachusetts.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 92,
+            "metadata": {
+              "unit_id": "chapter_xli_u01",
+              "chapter": "CHAPTER XLI",
+              "part": "part_4",
+              "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+              "char_count": 2002,
+              "strategy": "C",
+              "chunk_index": 0
+            },
+            "score": 0.5619589124006927
+          },
+          {
+            "id": "gutenberg-27963::C::p093::c001",
+            "text": "As Educator. —Accordingly, having secured the passage of a law\nestablishing a State Board of Education, Mr. Mann was made its\nsecretary at a salary of one thousand dollars a year. To accept this\nwork, he gave up a lucrative law practice, fine prospects of political\npreferment, and probable fortune, as well as professional fame. He\nentered upon an educational campaign full of discouragement, colossal in\nits undertaking, and sure to arouse bitterest animosities. Of this\nperiod Colonel Parker says, \"The story of his early struggles in this\ndirection has not yet been written. When it is, it will reveal a\nprofound depth of heroism rarely equaled in the history of the world.\"\nMr. Mann visited all parts of the state, lecturing to parents and\nstimulating the teachers. He was often received with co",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 93,
+            "metadata": {
+              "unit_id": "chapter_xli_u02",
+              "chapter": "CHAPTER XLI",
+              "part": "part_4",
+              "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+              "char_count": 1600,
+              "strategy": "C",
+              "chunk_index": 1
+            },
+            "score": 0.5594146342215265
+          }
+        ],
+        "context": "[gutenberg-27963::C::p094::c001 | data/book.epub | page 94]\nMr. Martin summarizes the work of Horace Mann during these twelve years\nas follows: \"In the evolution of the Massachusetts public schools during\nthese twelve years of Mr. Mann's labors, statistics tell us that the\nappropriations for public schools had doubled; that more than two\nmillion dollars had been spent in providing better schoolhouses; that\nthe wages of men as teachers had increased sixty-two per cent, of women\nfifty-one per cent, while the whole number of women employed as teachers\nhad increased fifty-four per cent; one month had been added to the\naverage length of the schools; the ratio of private school expenditures\nto those of the public schools had diminished from seventy-five per cent\nto thirty-six per cent; the compensation of school committees had been\nmade compulsory, and t\n\n[gutenberg-27963::C::p092::c002 | data/book.epub | page 92]\nHorace Mann was born at Franklin, Massachusetts, May 4, 1796. Inured to\nthe hard work of the farm, with but a few weeks' schooling in the\nwinter, never blessed with very rugged health, left at the age of\nthirteen by the death of his father with the responsibilities of a man,\nit is no wonder that he \"retained only painful recollections of the\nwhole period which ought to be, with every child, a golden age to look\nback upon.\" [165]\n\n[gutenberg-27963::C::p095::c004 | data/book.epub | page 95]\n[164] Educational Review , Vol. XII, p. 65.\n\n[165] Mrs. Mann, \"Life of Horace Mann,\" p. 10.\n\n[166] Mr. Mann completed the term made vacant by the death of\nJohn Quincy Adams, and was reëlected for the two succeeding terms.\n\n[167] Colonel Parker in article cited.\n\n[168] For an analysis of these Reports, see Dr. Harris's\narticle in Educational Review , Vol. XII, p. 112.\n\n[169] \"Education in Massachusetts,\" p. 174.\n\n[170] \"Horace Mann,\" p. 76.\n\n[gutenberg-27963::C::p092::c000 | data/book.epub | page 92]\nHORACE MANN (1796-1859)\n\nLiterature. — Mrs. Mary T. Mann , Life of Horace Mann; Hinsdale ,\nHorace Mann; Winship , Horace Mann, the Educator; Lang , Horace Mann; F. W. Parker , Article in Educational Review, Vol. XII, p. 65; Wm. T.\nHarris , Educational Review, Vol. XII, p. 105; Martin , Education in\nMassachusetts.",
+        "context_ids": [
+          "gutenberg-27963::C::p094::c001",
+          "gutenberg-27963::C::p092::c002",
+          "gutenberg-27963::C::p095::c004",
+          "gutenberg-27963::C::p092::c000"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ]
+  },
+  {
+    "query_id": "q20",
+    "question": "Under the national school system described in this chapter, between what ages is daily school attendance compulsory for every healthy child, and what happens if parents fail to comply?",
+    "expected_answer": "Between ages six and fourteen; parents may be fined or imprisoned, and if parents cannot secure attendance, the children are placed in reform schools.",
+    "status": "answered",
+    "answer": "Daily school attendance is compulsory for every healthy child between the ages of six and fourteen. If parents fail to comply, they may be fined or imprisoned, and if unable to secure attendance, the children may be placed in reform schools [gutenberg-27963::C::p098::c001]",
+    "citations": [
+      "gutenberg-27963::C::p098::c001"
+    ],
+    "latency_ms": 3930.24,
+    "events": [
+      {
+        "event": "search",
+        "query": "national school system compulsory attendance ages consequences for parents",
+        "filter": {
+          "chapter": "CHAPTER XLII"
+        },
+        "results": [
+          {
+            "id": "gutenberg-27963::C::p098::c001",
+            "text": "School Attendance. —Every child in normal health is required to attend\nschool between the ages of six and fourteen for every day that the\nschool is in session. Parents are held responsible for the attendance of\ntheir children, and may be fined or imprisoned for non-fulfillment of\nthe requirements of the law. In case parents are unable to secure the\nattendance of their children, the latter are placed in reform schools.\nThe law is carried out with great strictness and wonderful efficiency.\nFor example, in 1893, out of 5,299,310 children of school age in\nPrussia, there were only 945 unexcused absentees,—that is, 2 in 10,000. All parents expect their children to be in school every day, and\nthe children grow up fully impressed with the idea that they are to\nattend school regularly. The chief re",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 98,
+            "metadata": {
+              "unit_id": "chapter_xlii_u03",
+              "chapter": "CHAPTER XLII",
+              "part": "part_4",
+              "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+              "char_count": 2224,
+              "strategy": "C",
+              "chunk_index": 1
+            },
+            "score": 0.6334733549487872
+          },
+          {
+            "id": "gutenberg-27963::C::p098::c002",
+            "text": "they are to\nattend school regularly. The chief reason for the efficiency of\ncompulsory attendance in Germany lies in the fact that it covers every\nschool day, and therefore does not allow the formation of habits of\ntruancy.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 98,
+            "metadata": {
+              "unit_id": "chapter_xlii_u03",
+              "chapter": "CHAPTER XLII",
+              "part": "part_4",
+              "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+              "char_count": 2224,
+              "strategy": "C",
+              "chunk_index": 2
+            },
+            "score": 0.5350167839880844
+          },
+          {
+            "id": "gutenberg-27963::C::p101::c002",
+            "text": "The three most important features of the German school system are:—\n\n1. Only professionally trained teachers can be employed.\n\n2. Such teachers are appointed to permanent positions.\n\n3. The attendance of every child during the entire school year is\ncompulsory.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 101,
+            "metadata": {
+              "unit_id": "chapter_xlii_u06",
+              "chapter": "CHAPTER XLII",
+              "part": "part_4",
+              "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+              "char_count": 1717,
+              "strategy": "C",
+              "chunk_index": 2
+            },
+            "score": 0.4774886402570469
+          },
+          {
+            "id": "gutenberg-27963::C::p098::c004",
+            "text": "d it is not followed by a\nhigh or secondary school. This is the greatest weakness of the German\nschool system. It perpetuates the class system, and effectually prevents\nthe child from rising above his station.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 98,
+            "metadata": {
+              "unit_id": "chapter_xlii_u03",
+              "chapter": "CHAPTER XLII",
+              "part": "part_4",
+              "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+              "char_count": 2224,
+              "strategy": "C",
+              "chunk_index": 4
+            },
+            "score": 0.4226095208076688
+          },
+          {
+            "id": "gutenberg-27963::C::p098::c003",
+            "text": "The Schools. —The common school (Volksschule) of Germany reaches every\nchild, as we have seen. In villages the sexes are taught together; but\nin cities they are generally separated. The school hours are from eight\nto eleven in the forenoon, for six days in the week, and from two to\nfour for four days in the week, Wednesday and Saturday afternoons being\nholidays. These hours may be varied to suit local conditions. The school\nis in session for about forty-two weeks each year. Each teacher is\nrequired to give about twenty-eight hours of service per week, while the\npupils must attend from sixteen hours (for beginners) to twenty-eight.\nThe common schools of Prussia are now practically free. The common\nschool is intended for the common people, and it is not followed by a\nhigh or secondary school",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 98,
+            "metadata": {
+              "unit_id": "chapter_xlii_u03",
+              "chapter": "CHAPTER XLII",
+              "part": "part_4",
+              "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+              "char_count": 2224,
+              "strategy": "C",
+              "chunk_index": 3
+            },
+            "score": 0.3901767353721321
+          }
+        ],
+        "context": "[gutenberg-27963::C::p098::c001 | data/book.epub | page 98]\nSchool Attendance. —Every child in normal health is required to attend\nschool between the ages of six and fourteen for every day that the\nschool is in session. Parents are held responsible for the attendance of\ntheir children, and may be fined or imprisoned for non-fulfillment of\nthe requirements of the law. In case parents are unable to secure the\nattendance of their children, the latter are placed in reform schools.\nThe law is carried out with great strictness and wonderful efficiency.\nFor example, in 1893, out of 5,299,310 children of school age in\nPrussia, there were only 945 unexcused absentees,—that is, 2 in 10,000. All parents expect their children to be in school every day, and\nthe children grow up fully impressed with the idea that they are to\nattend school regularly. The chief re\n\n[gutenberg-27963::C::p098::c002 | data/book.epub | page 98]\nthey are to\nattend school regularly. The chief reason for the efficiency of\ncompulsory attendance in Germany lies in the fact that it covers every\nschool day, and therefore does not allow the formation of habits of\ntruancy.\n\n[gutenberg-27963::C::p101::c002 | data/book.epub | page 101]\nThe three most important features of the German school system are:—\n\n1. Only professionally trained teachers can be employed.\n\n2. Such teachers are appointed to permanent positions.\n\n3. The attendance of every child during the entire school year is\ncompulsory.\n\n[gutenberg-27963::C::p098::c004 | data/book.epub | page 98]\nd it is not followed by a\nhigh or secondary school. This is the greatest weakness of the German\nschool system. It perpetuates the class system, and effectually prevents\nthe child from rising above his station.\n\n[gutenberg-27963::C::p098::c003 | data/book.epub | page 98]\nThe Schools. —The common school (Volksschule) of Germany reaches every\nchild, as we have seen. In villages the sexes are taught together; but\nin cities they are generally separated. The school hours are from eight\nto eleven in the forenoon, for six days in the week, and from two to\nfour for four days in the week, Wednesday and Saturday afternoons being\nholidays. These hours may be varied to suit local conditions. The school\nis in session for about forty-two weeks each year. Each teacher is\nrequired to give about twenty-eight hours of service per week, while the\npupils must attend from sixteen hours (for beginners) to twenty-eight.\nThe common schools of Prussia are now practically free. The common\nschool is intended for the common people, and it is not followed by a\nhigh or secondary school",
+        "context_ids": [
+          "gutenberg-27963::C::p098::c001",
+          "gutenberg-27963::C::p098::c002",
+          "gutenberg-27963::C::p101::c002",
+          "gutenberg-27963::C::p098::c004",
+          "gutenberg-27963::C::p098::c003"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ]
+  },
+  {
+    "query_id": "q23_unans",
+    "question": "What specific statistical percentage of literacy did the Jesuit schools achieve in France by the year 1750 according to this text?",
+    "expected_answer": "INSUFFICIENT_EVIDENCE",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "latency_ms": 2089.05,
+    "events": [
+      {
+        "event": "search",
+        "query": "Jesuit schools literacy percentage France 1750",
+        "filter": null,
+        "results": [
+          {
+            "id": "gutenberg-27963::C::p003::c002",
+            "text": "The Growth of the Society was remarkable from the outset. In 1600 it\nhad 200 schools; in 1710, 612 colleges, 157 boarding or normal schools,\n59 houses for novitiates, 340 residences, 200 missions, and 24\nuniversities. The college at Clermont had, in 1651, 2000 students, and\nin 1675, 3000 students. These institutions controlled the education of\nthe Catholic Church in all Europe, and many Protestant young men also\nwere attracted to the Jesuit schools by their superior teachers and\ntheir thorough training.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 3,
+            "metadata": {
+              "unit_id": "chapter_xxx_u02",
+              "chapter": "CHAPTER XXX",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 2092,
+              "strategy": "C",
+              "chunk_index": 2
+            },
+            "score": 0.5309915048413897
+          },
+          {
+            "id": "gutenberg-27963::C::p016::c003",
+            "text": "3. The Jesuits established a remarkable system of schools, noted for\ntheir thoroughness, for their singleness of purpose, for their rapid\ngrowth, and for their trained teachers. They gave little attention to\nprimary education, but sought to reach the higher classes. Emulation was\nthe principal incentive employed.\n\n4. Opposed to the Jesuit education was that of the Port Royalists. They\nappealed to the intelligence of the children and cultivated the\nsense-perceptions. They invented the phonic method of spelling.\n\n5. Sturm's celebrated course of study was introduced during this century\nat Strasburg.\n\n6. The method of double translations in learning a language was taught\nby Ascham and Sturm.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 16,
+            "metadata": {
+              "unit_id": "chapter_xxxi_u08",
+              "chapter": "CHAPTER XXXI",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 3021,
+              "strategy": "C",
+              "chunk_index": 3
+            },
+            "score": 0.5289228012895834
+          },
+          {
+            "id": "gutenberg-27963::C::p004::c002",
+            "text": "Their schools became the most efficient and the most popular means of\neducation furnished throughout Europe,—and justly so, for their work\nwas thorough, their teachers were competent and well trained, and their\ncourse of study comprehensive. It is worthy of especial note that all\nteachers of the Jesuit schools were carefully trained before they were\nallowed to give instruction. This is the first time in history that the\nnecessity of special preparation for the work of teaching was recognized\nas an essential element in the work of education.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 4,
+            "metadata": {
+              "unit_id": "chapter_xxx_u03",
+              "chapter": "CHAPTER XXX",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 1818,
+              "strategy": "C",
+              "chunk_index": 2
+            },
+            "score": 0.5160427242156895
+          },
+          {
+            "id": "gutenberg-27963::C::p004::c001",
+            "text": "nough to supply the\ndemands for higher education.\" [65] This shows that they held higher\neducation as of the greater importance, and the same author further\nadds: \"Besides, the whole intellectual training of the Jesuits fitted\nthem better for the higher branches.\" They reached sons of princes,\nnoblemen, and others who constituted the influential classes, [66] but\n\"the Constitutions expressly laid down that poverty and mean extraction\nwere never to be any hindrance to a pupil's admission.\" [67] Instruction\nwas free.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 4,
+            "metadata": {
+              "unit_id": "chapter_xxx_u03",
+              "chapter": "CHAPTER XXX",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 1818,
+              "strategy": "C",
+              "chunk_index": 1
+            },
+            "score": 0.5046080254118817
+          },
+          {
+            "id": "gutenberg-27963::C::p006::c002",
+            "text": "Criticism of Jesuit Education. —As to the efficiency of the\ninstruction in the Jesuit schools, opinions widely differ. Bacon and\nDescartes indorse it in highest terms, while Leibnitz, Voltaire, and\nothers are equally strong in its condemnation. Bacon remarks, \"As to\nwhatever relates to the instruction of the young, we must consult the\nschools of the Jesuits, for there can be nothing that is better done.\"\nLeibnitz, on the other hand, says, \"In the matter of education, the\nJesuits have remained below mediocrity.\" Ranke, in speaking of the\nsuccess of the Jesuit schools, says, \"It was found that young persons\nlearned more under them in half a year than with others in two years.\"",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 6,
+            "metadata": {
+              "unit_id": "chapter_xxx_u05",
+              "chapter": "CHAPTER XXX",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 1572,
+              "strategy": "C",
+              "chunk_index": 2
+            },
+            "score": 0.48538555533592925
+          }
+        ],
+        "context": "[gutenberg-27963::C::p003::c002 | data/book.epub | page 3]\nThe Growth of the Society was remarkable from the outset. In 1600 it\nhad 200 schools; in 1710, 612 colleges, 157 boarding or normal schools,\n59 houses for novitiates, 340 residences, 200 missions, and 24\nuniversities. The college at Clermont had, in 1651, 2000 students, and\nin 1675, 3000 students. These institutions controlled the education of\nthe Catholic Church in all Europe, and many Protestant young men also\nwere attracted to the Jesuit schools by their superior teachers and\ntheir thorough training.\n\n[gutenberg-27963::C::p016::c003 | data/book.epub | page 16]\n3. The Jesuits established a remarkable system of schools, noted for\ntheir thoroughness, for their singleness of purpose, for their rapid\ngrowth, and for their trained teachers. They gave little attention to\nprimary education, but sought to reach the higher classes. Emulation was\nthe principal incentive employed.\n\n4. Opposed to the Jesuit education was that of the Port Royalists. They\nappealed to the intelligence of the children and cultivated the\nsense-perceptions. They invented the phonic method of spelling.\n\n5. Sturm's celebrated course of study was introduced during this century\nat Strasburg.\n\n6. The method of double translations in learning a language was taught\nby Ascham and Sturm.\n\n[gutenberg-27963::C::p004::c002 | data/book.epub | page 4]\nTheir schools became the most efficient and the most popular means of\neducation furnished throughout Europe,—and justly so, for their work\nwas thorough, their teachers were competent and well trained, and their\ncourse of study comprehensive. It is worthy of especial note that all\nteachers of the Jesuit schools were carefully trained before they were\nallowed to give instruction. This is the first time in history that the\nnecessity of special preparation for the work of teaching was recognized\nas an essential element in the work of education.\n\n[gutenberg-27963::C::p004::c001 | data/book.epub | page 4]\nnough to supply the\ndemands for higher education.\" [65] This shows that they held higher\neducation as of the greater importance, and the same author further\nadds: \"Besides, the whole intellectual training of the Jesuits fitted\nthem better for the higher branches.\" They reached sons of princes,\nnoblemen, and others who constituted the influential classes, [66] but\n\"the Constitutions expressly laid down that poverty and mean extraction\nwere never to be any hindrance to a pupil's admission.\" [67] Instruction\nwas free.",
+        "context_ids": [
+          "gutenberg-27963::C::p003::c002",
+          "gutenberg-27963::C::p016::c003",
+          "gutenberg-27963::C::p004::c002",
+          "gutenberg-27963::C::p004::c001"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ]
+  },
+  {
+    "query_id": "q24_unans",
+    "question": "Which university awarded Roger Ascham an honorary doctorate in mathematics after the publication of The Scholemaster?",
+    "expected_answer": "INSUFFICIENT_EVIDENCE",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "latency_ms": 2407.44,
+    "events": [
+      {
+        "event": "search",
+        "query": "Roger Ascham honorary doctorate mathematics The Scholemaster",
+        "filter": null,
+        "results": [
+          {
+            "id": "gutenberg-27963::C::p009::c001",
+            "text": "Roger Ascham was the most celebrated English educator of the sixteenth\ncentury. He was educated at Cambridge, and studied three years in\nGermany. He had a thorough knowledge of the classic languages. For these\nreasons he was chosen tutor to Elizabeth, a position which he held for\ntwo years. Upon her accession to the throne, Ascham came to read with\nher several hours a day, and she retained her affection for her old\nteacher throughout his life.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 9,
+            "metadata": {
+              "unit_id": "chapter_xxxi_u01",
+              "chapter": "CHAPTER XXXI",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 1867,
+              "strategy": "C",
+              "chunk_index": 1
+            },
+            "score": 0.5837581930445785
+          },
+          {
+            "id": "gutenberg-27963::C::p010::c003",
+            "text": "Ascham often refers to his illustrious pupil in claiming merit for his\nsystem. He says, \"And a better and nearer example herein may be our most\nnoble Queen Elizabeth, who never took yet Greek nor Latin grammar in her\nhand after the first declining of a noun and a verb; but only by this\ndouble translating of Demosthenes and Isocrates daily, without missing,\nevery forenoon, and likewise some part of Tully every afternoon, for the\nspace of a year or two, hath attained to such a perfect understanding in\nboth tongues, and to such a ready utterance of the Latin, and that with\nsuch a judgment as there be few now in both universities, or elsewhere\nin England, that be in both tongues comparable with her Majesty.\" Mr.\nQuick thinks that while Ascham may have thus flattered his royal pupil,\nthere is n",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 10,
+            "metadata": {
+              "unit_id": "chapter_xxxi_u02",
+              "chapter": "CHAPTER XXXI",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 2225,
+              "strategy": "C",
+              "chunk_index": 3
+            },
+            "score": 0.45299232781909143
+          },
+          {
+            "id": "gutenberg-27963::C::p009::c002",
+            "text": "His chief literary work is his \"Scholemaster,\" which is the first\neducational classic in English. Dr. Johnson says of this book, \"It\ncontains, perhaps, the best advice that ever was given for the study of\nlanguages.\" This method was as follows, given in Ascham's words: \"First,\nlet him teach the child, cheerfully and plainly, the cause and matter of\nthe letter (Cicero's Epistles); then, let him construe it into English\nso oft as the child may easily carry away the understanding of it;\nlastly, parse it over perfectly. This done, then let the child by and by\nboth construe and parse it over again; so that it may appear that the\nchild doubteth in nothing that his master has taught him before.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 9,
+            "metadata": {
+              "unit_id": "chapter_xxxi_u01",
+              "chapter": "CHAPTER XXXI",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 1867,
+              "strategy": "C",
+              "chunk_index": 2
+            },
+            "score": 0.4244711346026204
+          },
+          {
+            "id": "gutenberg-27963::C::p088::c003",
+            "text": "Having decided to devote himself to academic teaching, he gave up his\nposition in Switzerland and went to Bremen for further study. During the\ntwo years spent there, he wrote several essays on educational subjects,\nbut gave his chief attention to the study of Greek and mathematics.",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 88,
+            "metadata": {
+              "unit_id": "chapter_xl_u02",
+              "chapter": "CHAPTER XL",
+              "part": "part_4",
+              "file_item": "4233368849469751372_27963-h-4.htm.xhtml",
+              "char_count": 1556,
+              "strategy": "C",
+              "chunk_index": 3
+            },
+            "score": 0.41648976318093855
+          },
+          {
+            "id": "gutenberg-27963::C::p009::c000",
+            "text": "Literature. — H. M. Skinner , The Schoolmaster in Literature, The\nSchoolmaster in Comedy and Satire; Gill , Systems of Education; Quick , Educational Reformers; Williams , History of Modern Education; Besant , Rabelais; Monroe , Educational Ideal; Collins , Montaigne; Emerson , Representative Men; Vogel , Geschichte der Pädagogik; Carlisle , Two Great Teachers (Ascham and Arnold); Azarias , Essays\nEducational; Davidson , History of Education.\n\nWe have thus far discussed educators who were directly connected with\nthe great Protestant and Catholic movements. There were others who were\nmore or less independent of these movements. Among these we may mention\nRoger Ascham, Rabelais, and Montaigne.\n\nASCHAM (1515-1568)",
+            "source_id": "gutenberg-27963",
+            "source": "data/book.epub",
+            "page": 9,
+            "metadata": {
+              "unit_id": "chapter_xxxi_u01",
+              "chapter": "CHAPTER XXXI",
+              "part": "part_3",
+              "file_item": "4233368849469751372_27963-h-3.htm.xhtml",
+              "char_count": 1867,
+              "strategy": "C",
+              "chunk_index": 0
+            },
+            "score": 0.3945386226673894
+          }
+        ],
+        "context": "[gutenberg-27963::C::p009::c001 | data/book.epub | page 9]\nRoger Ascham was the most celebrated English educator of the sixteenth\ncentury. He was educated at Cambridge, and studied three years in\nGermany. He had a thorough knowledge of the classic languages. For these\nreasons he was chosen tutor to Elizabeth, a position which he held for\ntwo years. Upon her accession to the throne, Ascham came to read with\nher several hours a day, and she retained her affection for her old\nteacher throughout his life.\n\n[gutenberg-27963::C::p010::c003 | data/book.epub | page 10]\nAscham often refers to his illustrious pupil in claiming merit for his\nsystem. He says, \"And a better and nearer example herein may be our most\nnoble Queen Elizabeth, who never took yet Greek nor Latin grammar in her\nhand after the first declining of a noun and a verb; but only by this\ndouble translating of Demosthenes and Isocrates daily, without missing,\nevery forenoon, and likewise some part of Tully every afternoon, for the\nspace of a year or two, hath attained to such a perfect understanding in\nboth tongues, and to such a ready utterance of the Latin, and that with\nsuch a judgment as there be few now in both universities, or elsewhere\nin England, that be in both tongues comparable with her Majesty.\" Mr.\nQuick thinks that while Ascham may have thus flattered his royal pupil,\nthere is n\n\n[gutenberg-27963::C::p009::c002 | data/book.epub | page 9]\nHis chief literary work is his \"Scholemaster,\" which is the first\neducational classic in English. Dr. Johnson says of this book, \"It\ncontains, perhaps, the best advice that ever was given for the study of\nlanguages.\" This method was as follows, given in Ascham's words: \"First,\nlet him teach the child, cheerfully and plainly, the cause and matter of\nthe letter (Cicero's Epistles); then, let him construe it into English\nso oft as the child may easily carry away the understanding of it;\nlastly, parse it over perfectly. This done, then let the child by and by\nboth construe and parse it over again; so that it may appear that the\nchild doubteth in nothing that his master has taught him before.\n\n[gutenberg-27963::C::p088::c003 | data/book.epub | page 88]\nHaving decided to devote himself to academic teaching, he gave up his\nposition in Switzerland and went to Bremen for further study. During the\ntwo years spent there, he wrote several essays on educational subjects,\nbut gave his chief attention to the study of Greek and mathematics.",
+        "context_ids": [
+          "gutenberg-27963::C::p009::c001",
+          "gutenberg-27963::C::p010::c003",
+          "gutenberg-27963::C::p009::c002",
+          "gutenberg-27963::C::p088::c003"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ]
+  }
+]

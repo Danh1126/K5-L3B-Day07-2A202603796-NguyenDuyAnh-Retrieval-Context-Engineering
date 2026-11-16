@@ -1,0 +1,266 @@
+[
+  {
+    "config": "1. Dense (Baseline, k=3, budget=1800)",
+    "n_dev": 15,
+    "top_k": 3,
+    "budget": 1800,
+    "Hit@1": 0.5333,
+    "Recall@3": 0.8667,
+    "MRR": 0.6778,
+    "Context_Hit_Rate": 0.7333,
+    "Median_Latency_ms": 332.25,
+    "Missed_in_Context": [
+      {
+        "id": "q04",
+        "question": "What is the title of Roger Ascham's famous educational work that became the first educational classic in English?",
+        "gold_page": 9,
+        "retrieved_rank": 3,
+        "top_retrieved_pages": [
+          9,
+          9,
+          9
+        ],
+        "packed_count": 2
+      },
+      {
+        "id": "q08",
+        "question": "In this section's biographical account, what sentence was Francis Bacon given after confessing to corruption?",
+        "gold_page": 23,
+        "retrieved_rank": null,
+        "top_retrieved_pages": [
+          22,
+          21,
+          22
+        ],
+        "packed_count": 2
+      },
+      {
+        "id": "q11",
+        "question": "In Rousseau's educational scheme for Émile between ages twelve and fifteen, which single book was permitted?",
+        "gold_page": 59,
+        "retrieved_rank": 3,
+        "top_retrieved_pages": [
+          58,
+          60,
+          59
+        ],
+        "packed_count": 2
+      },
+      {
+        "id": "q14",
+        "question": "How did Froebel come up with the name 'Kindergarten' for his institution?",
+        "gold_page": 85,
+        "retrieved_rank": null,
+        "top_retrieved_pages": [
+          85,
+          85,
+          86
+        ],
+        "packed_count": 2
+      }
+    ]
+  },
+  {
+    "config": "2. Lexical BM25 (k=3, budget=1800)",
+    "n_dev": 15,
+    "top_k": 3,
+    "budget": 1800,
+    "Hit@1": 0.6,
+    "Recall@3": 0.7333,
+    "MRR": 0.6556,
+    "Context_Hit_Rate": 0.6667,
+    "Median_Latency_ms": 3.22,
+    "Missed_in_Context": [
+      {
+        "id": "q02",
+        "question": "Were poor boys or children of humble birth excluded from admission to Jesuit schools?",
+        "gold_page": 4,
+        "retrieved_rank": null,
+        "top_retrieved_pages": [
+          37,
+          3,
+          19
+        ],
+        "packed_count": 3
+      },
+      {
+        "id": "q03",
+        "question": "What major contribution to spelling instruction was introduced by the Port Royalists?",
+        "gold_page": 8,
+        "retrieved_rank": 3,
+        "top_retrieved_pages": [
+          16,
+          8,
+          8
+        ],
+        "packed_count": 2
+      },
+      {
+        "id": "q08",
+        "question": "In this section's biographical account, what sentence was Francis Bacon given after confessing to corruption?",
+        "gold_page": 23,
+        "retrieved_rank": null,
+        "top_retrieved_pages": [
+          22,
+          21,
+          29
+        ],
+        "packed_count": 2
+      },
+      {
+        "id": "q11",
+        "question": "In Rousseau's educational scheme for Émile between ages twelve and fifteen, which single book was permitted?",
+        "gold_page": 59,
+        "retrieved_rank": null,
+        "top_retrieved_pages": [
+          59,
+          60,
+          55
+        ],
+        "packed_count": 2
+      },
+      {
+        "id": "q14",
+        "question": "How did Froebel come up with the name 'Kindergarten' for his institution?",
+        "gold_page": 85,
+        "retrieved_rank": null,
+        "top_retrieved_pages": [
+          85,
+          86,
+          84
+        ],
+        "packed_count": 2
+      }
+    ]
+  },
+  {
+    "config": "3. Hybrid RRF (0.6/0.4, k=3, budget=1800)",
+    "n_dev": 15,
+    "top_k": 3,
+    "budget": 1800,
+    "Hit@1": 0.4667,
+    "Recall@3": 0.8,
+    "MRR": 0.6222,
+    "Context_Hit_Rate": 0.7333,
+    "Median_Latency_ms": 289.37,
+    "Missed_in_Context": [
+      {
+        "id": "q02",
+        "question": "Were poor boys or children of humble birth excluded from admission to Jesuit schools?",
+        "gold_page": 4,
+        "retrieved_rank": null,
+        "top_retrieved_pages": [
+          37,
+          4,
+          5
+        ],
+        "packed_count": 2
+      },
+      {
+        "id": "q08",
+        "question": "In this section's biographical account, what sentence was Francis Bacon given after confessing to corruption?",
+        "gold_page": 23,
+        "retrieved_rank": null,
+        "top_retrieved_pages": [
+          22,
+          21,
+          22
+        ],
+        "packed_count": 2
+      },
+      {
+        "id": "q11",
+        "question": "In Rousseau's educational scheme for Émile between ages twelve and fifteen, which single book was permitted?",
+        "gold_page": 59,
+        "retrieved_rank": 3,
+        "top_retrieved_pages": [
+          60,
+          61,
+          59
+        ],
+        "packed_count": 2
+      },
+      {
+        "id": "q14",
+        "question": "How did Froebel come up with the name 'Kindergarten' for his institution?",
+        "gold_page": 85,
+        "retrieved_rank": null,
+        "top_retrieved_pages": [
+          85,
+          86,
+          85
+        ],
+        "packed_count": 2
+      }
+    ]
+  },
+  {
+    "config": "4. Hybrid RRF Tuned + Budget (0.5/0.5, rrf_k=30, k=5, budget=3000)",
+    "n_dev": 15,
+    "top_k": 5,
+    "budget": 3000,
+    "Hit@1": 0.4667,
+    "Recall@5": 0.8,
+    "MRR": 0.6167,
+    "Context_Hit_Rate": 0.7333,
+    "Median_Latency_ms": 355.68,
+    "Missed_in_Context": [
+      {
+        "id": "q02",
+        "question": "Were poor boys or children of humble birth excluded from admission to Jesuit schools?",
+        "gold_page": 4,
+        "retrieved_rank": null,
+        "top_retrieved_pages": [
+          37,
+          4,
+          5,
+          4,
+          6
+        ],
+        "packed_count": 4
+      },
+      {
+        "id": "q08",
+        "question": "In this section's biographical account, what sentence was Francis Bacon given after confessing to corruption?",
+        "gold_page": 23,
+        "retrieved_rank": null,
+        "top_retrieved_pages": [
+          22,
+          21,
+          22,
+          24,
+          22
+        ],
+        "packed_count": 4
+      },
+      {
+        "id": "q11",
+        "question": "In Rousseau's educational scheme for Émile between ages twelve and fifteen, which single book was permitted?",
+        "gold_page": 59,
+        "retrieved_rank": 4,
+        "top_retrieved_pages": [
+          60,
+          59,
+          61,
+          59,
+          55
+        ],
+        "packed_count": 4
+      },
+      {
+        "id": "q14",
+        "question": "How did Froebel come up with the name 'Kindergarten' for his institution?",
+        "gold_page": 85,
+        "retrieved_rank": null,
+        "top_retrieved_pages": [
+          85,
+          86,
+          85,
+          84,
+          83
+        ],
+        "packed_count": 4
+      }
+    ]
+  }
+]
